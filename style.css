@@ -12,11 +12,15 @@ padding: 20px;
 display: flex;
 }
 h1{
-
+color: rgb(214, 208, 121);
+font-size: 30px;
 }
 input{
-
+width: 100px;
+height: 10px;
 }
 button{
-
+background-color: darkseagreen;
+width: 50px;
+border-radius: 30px;
 }
