@@ -33,7 +33,8 @@ section{
 display: flex;
 align-items: center;
 justify-content: space-around;
-color: beige                                                 ;
+color: beige;
+margin: 20px;
 }
 p{
 width: 400px;
